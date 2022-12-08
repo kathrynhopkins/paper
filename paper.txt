@@ -4,5 +4,8 @@ The effects of cochlear hearing loss on the perception of temporal fine structur
 
 Cochlear hearing loss results in a reduced ability to detect differences in temoporal fine structure.  This may explain why people with cochlear hearing loss have difficulties hearing speech in background noise.
 
+Background
+Lots of people have done work in this area before
+
 Acknowledgements
 Thanks to Brian
